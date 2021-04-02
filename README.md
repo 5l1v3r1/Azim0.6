@@ -19,15 +19,15 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ pip2 install bs4
 $ pkg install git
-$ git clone https://github.com/Azim-vau/Azim0.6.git
+$ git clone https://github.com/Azim-vau/azim0.6.git
 $ cd Azim0.6
-$ python2 Azim0.6.py
+$ python2 azim0.6.py
 ```
 
 ## [~] Single Command
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Azim-vau/Azim0.6.git ; cd Azim0.6 ; python2 Azim0.6.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Azim-vau/Azim0.6.git ; cd Azim0.6 ; python2 azim0.6.py
 ```
 • TOOL USER : (No Need)</br>
 • TOOL PASS : (No Need)</br></br>
