@@ -19,7 +19,7 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ pip2 install bs4
 $ pkg install git
-$ git clone https://github.com/Azim-vau/azim0.6.git
+$ git clone https://github.com/Azim-vau/Azim0.6.git
 $ cd Azim0.6
 $ python2 azim0.6.py
 ```
